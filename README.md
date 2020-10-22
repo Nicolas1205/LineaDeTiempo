@@ -1,6 +1,6 @@
 # Linea de Tiempo
 
-Escrito en [React.js]:https://es.react.js.org
+Escrito en [React.js](https://es.react.js.org)
 
 
 
